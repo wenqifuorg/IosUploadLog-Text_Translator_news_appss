@@ -1,0 +1,30 @@
+Running altool at path '/Applications/Xcode_26.3.app/Contents/SharedFrameworks/ContentDelivery.framework/Resources/altool'...
+
+2026-10-13 03:34:30.218 ERROR: [ContentDelivery.Uploader.1010CACB0] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘2’. (ID: 4f32e8e9-963b-4166-a211-be834cb1305c)
+   NSUnderlyingError : The provided entity includes an attribute with a value that has already been used (-19241) The bundle version must be higher than the previously uploaded version.
+      status : 409
+      detail : The bundle version must be higher than the previously uploaded version.
+      source : 
+         pointer : /data/attributes/cfBundleVersion
+      id : 4f32e8e9-963b-4166-a211-be834cb1305c
+      code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+      title : The provided entity includes an attribute with a value that has already been used
+      meta : 
+         previousBundleVersion : 2
+   previousBundleVersion : 2
+   iris-code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+2026-10-13 03:34:30.219 ERROR: [altool.1010CACB0] Failed to upload package.
+2026-10-13 03:34:30.220 ERROR: [altool.1010CACB0] The provided entity includes an attribute with a value that has already been used (-19232) The bundle version must be higher than the previously uploaded version: ‘2’. (ID: 4f32e8e9-963b-4166-a211-be834cb1305c)
+   NSUnderlyingError : The provided entity includes an attribute with a value that has already been used (-19241) The bundle version must be higher than the previously uploaded version.
+      status : 409
+      detail : The bundle version must be higher than the previously uploaded version.
+      source : 
+         pointer : /data/attributes/cfBundleVersion
+      id : 4f32e8e9-963b-4166-a211-be834cb1305c
+      code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+      title : The provided entity includes an attribute with a value that has already been used
+      meta : 
+         previousBundleVersion : 2
+   previousBundleVersion : 2
+   iris-code : ENTITY_ERROR.ATTRIBUTE.INVALID.DUPLICATE
+Failed to upload archive at 'TranslateAPP.ipa/TranslateAPP.ipa'.

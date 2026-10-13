@@ -1,0 +1,5 @@
+已更新 TargetAttributes 手动签名 target=1
+已更新签名配置：com.multi.translator(2)；手动签名 target=1；项目级清理=0；xcconfig=0
+手动签名校验通过：
+target=TranslateAPP config=Debug bundleId=com.multi.translator profileUuid=5c822ca4-4df8-4813-b568-7f53245a5629 profileName=appstore-com.multi.translator-20261013033242369 team=KP8SZY3C67 identity=Apple Distribution: HALO HALO LIMITED (KP8SZY3C67)
+target=TranslateAPP config=Release bundleId=com.multi.translator profileUuid=5c822ca4-4df8-4813-b568-7f53245a5629 profileName=appstore-com.multi.translator-20261013033242369 team=KP8SZY3C67 identity=Apple Distribution: HALO HALO LIMITED (KP8SZY3C67)
