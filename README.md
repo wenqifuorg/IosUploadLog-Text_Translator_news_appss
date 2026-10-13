@@ -1,0 +1,1 @@
+# IosUploadLog-Text_Translator_news_appss
